@@ -3,11 +3,11 @@
     🚀 UI Clone
 </h1>
 
+<p> I don't know why English version of IDMb is not working for me!</p>
+
+### 🚀 Tecnologies
 
 
-### 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ReactJS
 - Javascript
