@@ -12,10 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - ReactJS
 - Javascript
 - Next.js
-
-### 📕 Bibliotecas
-
-Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
+  ### others
 
 - react-dom
 - react-icons
